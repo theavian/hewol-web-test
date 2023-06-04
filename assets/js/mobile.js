@@ -9,7 +9,7 @@ window.mobileCheck = function() {
         document.getElementById("aeros").src="assets/img/aeros-pic.png"
      }
     
-  };
+  }
 
 console.log(window.mobileCheck);
 

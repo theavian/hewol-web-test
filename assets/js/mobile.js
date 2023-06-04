@@ -13,9 +13,3 @@ window.mobileCheck = function() {
 
 console.log(window.mobileCheck);
 
-if(check == false) {
-    document.getElementById("aeros").src="assets/img/aeros-pic-mobile.png"
-}
-else{
-    document.getElementById("aeros").src="assets/img/aeros-pic.png"
-}
